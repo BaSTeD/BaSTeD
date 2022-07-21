@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaSTeD
-- 👀 I’m interested in ... Technology, Computer Science, Machine Learning/ KI/ Security-Breaches
+- 👀 I’m interested in ... Technology, Computer Science, Machine Learning/ KI/ Security-Breaches, IT-Security
 - 🌱 I’m currently learning ... Python, R, HTML/CSS
 - 📫 How to reach me ...https://lothsebastian.de
 
