@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian
 - 👀 I’m interested in ... Technology, Computer Science, Machine Learning/ KI/ Security-Breaches, IT-Security
-- 🌱 I’m currently learning ... Python, R, HTML/CSS
+- 🌱 I’m currently learning ... Swift, Java, C, C++, C#, Python, R, HTML/CSS
 - 📫 How to reach me ...https://loth.ink
 
 <!---
