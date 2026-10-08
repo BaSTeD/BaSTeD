@@ -1,36 +1,23 @@
 # Hi, I'm Sebastian
 
-Developer from Munich. I build iOS apps that are live in the App Store, and small
-self-hosted tools around security, automation and paperwork.
+Senior IT Security Engineer from Munich, focused on API security, identity and
+access management, and PKI: OAuth 2.0 and OpenID Connect, mutual TLS, certificate
+lifecycles. On the side I build and run my own iOS apps, from the first line of
+Swift to the App Store release.
 
-My day-to-day background is API security: gateways, OIDC, TLS and mTLS. On the side
-I run my own apps and infrastructure from idea to store release.
+I take on freelance work for secure backend integrations and iOS development.
 
-**Available for freelance work:** [sebastian.loth.ink](https://sebastian.loth.ink)
+**[sebastian.loth.ink](https://sebastian.loth.ink)** · **[Upwork](https://www.upwork.com/freelancers/~017bfdcddd9d0667c0)**
 
-## Apps in the stores
+## Projects
 
-| App | What it is | Tech | Links |
-|---|---|---|---|
-| **Hangry Baby** | Feeding tracker for parents, with sync between both parents and a PDF report for the paediatrician | SwiftUI, SwiftData, CloudKit. Android version in Flutter | [App Store](https://apps.apple.com/app/id6778045866) · [Google Play](https://play.google.com/store/apps/details?id=ink.loth.hangrybaby) |
-| **Billetti** | Invoicing for freelancers and small businesses in Germany, including e-invoices | SwiftUI, SwiftData, CloudKit | [App Store](https://apps.apple.com/app/id6778285481) |
-| **Falling Blocks** | Block puzzle with a deadpan sense of humour | SwiftUI | [App Store](https://apps.apple.com/app/id6793529888) |
+- [**oauth-mtls-reference**](https://github.com/BaSTeD/oauth-mtls-reference): runnable OAuth 2.0 setup in the style of FAPI 2.0, with PAR, PKCE, `private_key_jwt` and access tokens bound to the client's TLS certificate (RFC 8705). Includes a threat model with a test for every row.
+
+More are on the way.
+
+## Apps in the App Store
+
+- [**Hangry Baby**](https://apps.apple.com/app/id6778045866): feeding tracker for parents, with sync between both parents and a PDF report for the paediatrician. SwiftUI, SwiftData, CloudKit.
+- [**Billetti**](https://apps.apple.com/app/id6778285481): invoicing for freelancers and small businesses in Germany, including e-invoices. SwiftUI, SwiftData, CloudKit.
 
 The app code is private. Happy to walk through it in a call.
-
-## Open tools
-
-- [**certwatch**](https://github.com/BaSTeD/certwatch): monitors TLS, mTLS and OIDC endpoints and mails you before a certificate expires. Node.js, React, PostgreSQL, Docker.
-- [**Knowledgebase**](https://github.com/BaSTeD/Knowledgebase): personal wiki on plain Markdown files with search and an editor. Python, Flask, Docker.
-
-## What I work with
-
-**Apple platforms:** Swift, SwiftUI, SwiftData, CloudKit, StoreKit, App Store release process  
-**Cross-platform:** Flutter, Dart  
-**Backend:** Python (FastAPI, Flask), Node.js, PostgreSQL  
-**Infrastructure:** Docker, Traefik, nginx, Linux servers, n8n  
-**Security:** OIDC and OAuth 2.0, TLS and mTLS, API gateways, Keycloak
-
-## Contact
-
-[sebastian.loth.ink](https://sebastian.loth.ink) · [loth.ink](https://loth.ink)
