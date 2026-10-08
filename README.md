@@ -7,7 +7,7 @@ Swift to the App Store release.
 
 I take on freelance work for secure backend integrations and iOS development.
 
-**[sebastian.loth.ink](https://sebastian.loth.ink)** · **[Upwork](https://www.upwork.com/freelancers/~017bfdcddd9d0667c0)**
+**[sebastian.loth.ink](https://sebastian.loth.ink)**
 
 ## Projects
 
